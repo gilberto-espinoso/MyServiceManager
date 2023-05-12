@@ -1,5 +1,3 @@
-using System.Collections.Generic;
-
 namespace MyServiceManager.Models
 {
     public class User
