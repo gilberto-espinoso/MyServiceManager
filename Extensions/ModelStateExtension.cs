@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc.ModelBinding;
 
-namespace MyServiceManager.Extensions
+namespace Blog.Extensions
 {
     public static class ModelStateExtension
     {
