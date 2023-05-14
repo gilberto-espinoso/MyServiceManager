@@ -8,7 +8,7 @@
     }
   },
   "profiles": {
-    "Blog": {
+    "MyServiceManager": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

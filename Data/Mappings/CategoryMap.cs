@@ -1,8 +1,8 @@
-﻿using Blog.Models;
+﻿using MyServiceManager.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Blog.Data.Mappings
+namespace MyServiceManager.Data.Mappings
 {
     public class CategoryMap : IEntityTypeConfiguration<Category>
     {

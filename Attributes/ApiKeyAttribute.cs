@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 
-namespace Blog.Attributes;
+namespace MyServiceManager.Attributes;
 
 [AttributeUsage(validOn: AttributeTargets.Class | AttributeTargets.Method)]
 public class ApiKeyAttribute : Attribute, IAsyncActionFilter

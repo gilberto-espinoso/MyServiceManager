@@ -1,7 +1,7 @@
 using System.Security.Claims;
-using Blog.Models;
+using MyServiceManager.Models;
 
-namespace Blog.Extensions;
+namespace MyServiceManager.Extensions;
 
 public static class RoleClaimsExtension
 {
