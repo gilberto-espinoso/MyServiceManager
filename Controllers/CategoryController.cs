@@ -2,6 +2,7 @@
 using MyServiceManager.Extensions;
 using MyServiceManager.Models;
 using MyServiceManager.ViewModels;
+using MyServiceManager.ViewModels.Categories;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
