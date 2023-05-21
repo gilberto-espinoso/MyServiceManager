@@ -1,4 +1,4 @@
-namespace MyServiceManager;
+namespace Blog;
 
 public static class Configuration
 {
